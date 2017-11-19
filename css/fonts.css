@@ -1,0 +1,20 @@
+/*
+@font-face {
+    font-family: "AHS";
+    font-style: normal;
+    font-weight: normal;
+    src: local("?"), url("assets/fonts/AHS.ttf") format("truetype");
+}*/
+@font-face {
+    font-family: 'AHS';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../assets/fonts/AHS.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../assets/fonts/Inconsolata.ttf') format("truetype");
+}

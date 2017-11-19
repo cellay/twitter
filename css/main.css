@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;    
+    font-family: Inconsolata;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('../assets/images/background.jpg');
+}
+
+header {
+    height: 75px;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    font-family: AHS, sans-serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    line-height: 75px;
+}
+
+section {
+    width: 100%;
+}
+
+#comment-area {
+    width: 70%;
+    background-color: snow;
+    border-radius: 5px;
+    color: black;
+    font-size: 20px;
+    margin: 10px;
+    margin-bottom: 0;
+}
+
+button {
+    display: block;
+    margin: 5px 10px;
+}
+
+.newComment {
+    width: 70%;
+    background-color: snow;
+    border-radius: 5px;
+    color: black;
+    font-size: 20px;
+    margin: 10px;
+}
